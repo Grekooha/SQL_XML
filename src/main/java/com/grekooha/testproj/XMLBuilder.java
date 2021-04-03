@@ -1,4 +1,4 @@
-package com.company;
+package com.grekooha.testproj;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;

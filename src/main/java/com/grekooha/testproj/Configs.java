@@ -1,7 +1,7 @@
-package com.company;
+package com.grekooha.testproj;
 
 class Configs {
-    private String url = "jdbc:postgresql://127.0.0.1:5432/postgres";
+    private String url = "jdbc:postgresql://localhost:5432/postgres";
     private String user = "postgres";
     private String pass = "3136";
 

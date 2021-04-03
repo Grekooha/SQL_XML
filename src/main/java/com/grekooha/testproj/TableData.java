@@ -1,4 +1,4 @@
-package com.company;
+package com.grekooha.testproj;
 
 import java.sql.*;
 import java.util.ArrayList;

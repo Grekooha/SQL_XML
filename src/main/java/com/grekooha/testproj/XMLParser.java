@@ -1,4 +1,4 @@
-package com.company;
+package com.grekooha.testproj;
 
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;

@@ -1,10 +1,11 @@
-package com.company;
+package com.grekooha.testproj;
 import java.sql.*;
 
 public class WorkWithDataBase {
 
     static void addATableIfNone() {
         Connection connection = DataBaseHandler.getDbConnection();
+        System.out.println(connection==null);
         try (Statement statement = connection.createStatement()) {
             System.out.println("Executing statement...");
             String SQL = "CREATE TABLE IF NOT EXISTS test (" +

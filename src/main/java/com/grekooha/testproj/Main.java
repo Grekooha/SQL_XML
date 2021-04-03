@@ -1,4 +1,4 @@
-package com.company;
+package com.grekooha.testproj;
 
 public class Main {
 
